@@ -3,7 +3,7 @@
 A responsive weather web application that provides real-time weather information for your current location or any city you search. Built using HTML, CSS, and JavaScript, this app utilizes the OpenWeatherMap API to fetch weather details like temperature, wind speed, humidity, and cloudiness.
 
 ## 🌐 Live Demo
-
+[https://prajnaparamitasatapathy.github.io/Weather-App/]
 
 ## 🚀 Features
 📍 Location-based Weather – Fetches weather info using your current geolocation.
